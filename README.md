@@ -10,10 +10,9 @@ Ce projet est réalisé dans le cadre du module Projet Tutoré 3 en Licence 3 G�
 ## Équipe
 
 - Fatoumata Idrissa Sidibe— Product Owner 
--  Scrum Master
-- — Développeur
-- Nom Prénom — Développeur
-- — Développeur
+-  Hawa Diallo Scrum Master
+- — Fatoumata B DIAKITE Développeur
+- SOULAYMANE FOMBA  — Développeur
 
 ## Modules du projet
 
